@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1092" height="712" viewBox="0 0 1092 712">
+<rect width="100%" height="100%" fill="#0a0a0a"/>
+<text x="546.0" y="32" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">Terranova 项目甘特图</text>
+<text x="266.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第1周</text>
+<rect x="240" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="318.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第2周</text>
+<rect x="292" y="70" width="52" height="612" fill="#111"/>
+<text x="370.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第3周</text>
+<rect x="344" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="422.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第4周</text>
+<rect x="396" y="70" width="52" height="612" fill="#111"/>
+<text x="474.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第5周</text>
+<rect x="448" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="526.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第6周</text>
+<rect x="500" y="70" width="52" height="612" fill="#111"/>
+<text x="578.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第7周</text>
+<rect x="552" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="630.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第8周</text>
+<rect x="604" y="70" width="52" height="612" fill="#111"/>
+<text x="682.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第9周</text>
+<rect x="656" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="734.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第10周</text>
+<rect x="708" y="70" width="52" height="612" fill="#111"/>
+<text x="786.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第11周</text>
+<rect x="760" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="838.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第12周</text>
+<rect x="812" y="70" width="52" height="612" fill="#111"/>
+<text x="890.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第13周</text>
+<rect x="864" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="942.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第14周</text>
+<rect x="916" y="70" width="52" height="612" fill="#111"/>
+<text x="994.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第15周</text>
+<rect x="968" y="70" width="52" height="612" fill="#1a1a1a"/>
+<text x="1046.0" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#888" text-anchor="middle">第16周</text>
+<rect x="1020" y="70" width="52" height="612" fill="#111"/>
+<text x="228" y="93.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">需求分析与架构设计</text>
+<line x1="240" y1="106" x2="1072" y2="106" stroke="#222" stroke-width="1"/>
+<rect x="242" y="76.0" width="100" height="24" rx="4" ry="4" fill="#0c1f6e" opacity="0.9"/>
+<text x="292.0" y="93.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="129.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">界面交互设计</text>
+<line x1="240" y1="142" x2="1072" y2="142" stroke="#222" stroke-width="1"/>
+<rect x="294" y="112.0" width="100" height="24" rx="4" ry="4" fill="#0c1f6e" opacity="0.9"/>
+<text x="344.0" y="129.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="165.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">知识图谱建模与数据</text>
+<line x1="240" y1="178" x2="1072" y2="178" stroke="#222" stroke-width="1"/>
+<rect x="346" y="148.0" width="152" height="24" rx="4" ry="4" fill="#1a3fa0" opacity="0.9"/>
+<text x="422.0" y="165.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">3周</text>
+<text x="228" y="201.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">图数据库接入</text>
+<line x1="240" y1="214" x2="1072" y2="214" stroke="#222" stroke-width="1"/>
+<rect x="450" y="184.0" width="100" height="24" rx="4" ry="4" fill="#1a3fa0" opacity="0.9"/>
+<text x="500.0" y="201.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="237.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">后端工程基建与认证</text>
+<line x1="240" y1="250" x2="1072" y2="250" stroke="#222" stroke-width="1"/>
+<rect x="346" y="220.0" width="100" height="24" rx="4" ry="4" fill="#1e64d6" opacity="0.9"/>
+<text x="396.0" y="237.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="273.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">学习进度与图谱接口</text>
+<line x1="240" y1="286" x2="1072" y2="286" stroke="#222" stroke-width="1"/>
+<rect x="450" y="256.0" width="152" height="24" rx="4" ry="4" fill="#1e64d6" opacity="0.9"/>
+<text x="526.0" y="273.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">3周</text>
+<text x="228" y="309.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">推荐算法</text>
+<line x1="240" y1="322" x2="1072" y2="322" stroke="#222" stroke-width="1"/>
+<rect x="554" y="292.0" width="100" height="24" rx="4" ry="4" fill="#1e64d6" opacity="0.9"/>
+<text x="604.0" y="309.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="345.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">前端工程基建</text>
+<line x1="240" y1="358" x2="1072" y2="358" stroke="#222" stroke-width="1"/>
+<rect x="346" y="328.0" width="100" height="24" rx="4" ry="4" fill="#2b82e0" opacity="0.9"/>
+<text x="396.0" y="345.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="381.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">大陆地图与迷雾系统</text>
+<line x1="240" y1="394" x2="1072" y2="394" stroke="#222" stroke-width="1"/>
+<rect x="450" y="364.0" width="204" height="24" rx="4" ry="4" fill="#2b82e0" opacity="0.9"/>
+<text x="552.0" y="381.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">4周</text>
+<text x="228" y="417.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">学习页面与个人中心</text>
+<line x1="240" y1="430" x2="1072" y2="430" stroke="#222" stroke-width="1"/>
+<rect x="554" y="400.0" width="152" height="24" rx="4" ry="4" fill="#2b82e0" opacity="0.9"/>
+<text x="630.0" y="417.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">3周</text>
+<text x="228" y="453.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">任务系统与成就徽章</text>
+<line x1="240" y1="466" x2="1072" y2="466" stroke="#222" stroke-width="1"/>
+<rect x="606" y="436.0" width="152" height="24" rx="4" ry="4" fill="#6a3fbf" opacity="0.9"/>
+<text x="682.0" y="453.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">3周</text>
+<text x="228" y="489.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">等级经验与社交竞争</text>
+<line x1="240" y1="502" x2="1072" y2="502" stroke="#222" stroke-width="1"/>
+<rect x="658" y="472.0" width="152" height="24" rx="4" ry="4" fill="#6a3fbf" opacity="0.9"/>
+<text x="734.0" y="489.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">3周</text>
+<text x="228" y="525.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">智能讲解与图谱问答</text>
+<line x1="240" y1="538" x2="1072" y2="538" stroke="#222" stroke-width="1"/>
+<rect x="710" y="508.0" width="152" height="24" rx="4" ry="4" fill="#2a9d5c" opacity="0.9"/>
+<text x="786.0" y="525.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">3周</text>
+<text x="228" y="561.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">单元集成与端到端测试</text>
+<line x1="240" y1="574" x2="1072" y2="574" stroke="#222" stroke-width="1"/>
+<rect x="762" y="544.0" width="100" height="24" rx="4" ry="4" fill="#c0392b" opacity="0.9"/>
+<text x="812.0" y="561.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="597.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">性能验证与用户验收</text>
+<line x1="240" y1="610" x2="1072" y2="610" stroke="#222" stroke-width="1"/>
+<rect x="814" y="580.0" width="100" height="24" rx="4" ry="4" fill="#c0392b" opacity="0.9"/>
+<text x="864.0" y="597.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="633.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">容器化与上线部署</text>
+<line x1="240" y1="646" x2="1072" y2="646" stroke="#222" stroke-width="1"/>
+<rect x="866" y="616.0" width="100" height="24" rx="4" ry="4" fill="#e67e22" opacity="0.9"/>
+<text x="916.0" y="633.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+<text x="228" y="669.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" fill="#ccc" text-anchor="end">文档手册与课程汇报</text>
+<line x1="240" y1="682" x2="1072" y2="682" stroke="#222" stroke-width="1"/>
+<rect x="918" y="652.0" width="100" height="24" rx="4" ry="4" fill="#e67e22" opacity="0.9"/>
+<text x="968.0" y="669.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="12" fill="#fff" text-anchor="middle">2周</text>
+</svg>
